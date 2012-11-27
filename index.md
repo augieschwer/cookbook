@@ -37,6 +37,10 @@ you can't fit the logstash agent.
 
 Ways to speed up the logstash startup time.
 
+## [running as a service with init](recipes/using-init/)
+
+An init script to run logstash as a service on your RHEL based distrobution.
+
 ### Contribute!
 
 This cookbook is for and by the logstash community. You can help! Click the
